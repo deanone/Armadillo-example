@@ -1,0 +1,1 @@
+g++ main.cpp -o main -std=c++11 -O2 -I /home/asal/include/armadillo -lopenblas -llapack
